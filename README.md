@@ -48,3 +48,21 @@ node index.js
 
 `Enter your email: tobrutlamot@yy
 check otp in email or spam folder`
+
+✅ create screen for vps 
+
+````
+screen -S interlinkbot
+````
+✅ To detach (exit the screen but the process continues)
+Press:
+`Ctrl + A then press D`
+
+✅ Return to the session that has been created
+
+````
+screen -r interlinkbot
+````
+✅ To exit and end the session
+
+In the screen, press `Ctrl + C` or type exit
