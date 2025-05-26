@@ -27,7 +27,7 @@ npm install
 ````
 email1@example.com:passcode1
 ````
-**Set up proxies (optional)*  `nano proxies.txt` 
+*Set up proxies (optional)*  `nano proxies.txt` 
 
 ```
 http://ip:port:user:pass
