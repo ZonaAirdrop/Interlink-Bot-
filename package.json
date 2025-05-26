@@ -1,33 +1,41 @@
 {
-  "name": "Pharos-Bot",
+  "name": "Interlink-Multi-Bot",
   "version": "1.0.0",
-  "description": "Automated bot for interacting with Pharos Testnet",
+  "description": "Automated bot for claiming Interlink Labs airdrop tokens",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon index.js",
+    "test": "echo \"No tests yet\" && exit 0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZonaAirdrop/Pharos-Bot.git"
+    "url": "git+https://github.com/cryptodai3/Interlink-Multi-Bot.git"
   },
   "keywords": [
-    "pharos",
-    "testnet",
+    "interlink",
+    "airdrop",
+    "crypto",
     "bot",
-    "automation",
-    "airdrop"
+    "automation"
   ],
-  "author": "zonaairdrop",
+  "author": "cryptodai3",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cryptodai3/Interlink-Multi-Bot/issues"
+  },
+  "homepage": "https://github.com/cryptodai3/Interlink-Multi-Bot#readme",
   "dependencies": {
-    "axios": "^1.6.7",
-    "dotenv": "^16.4.1",
-    "ethers": "^6.11.1",
+    "axios": "^1.6.2",
     "https-proxy-agent": "^7.0.2",
-    "random-useragent": "^0.5.0"
+    "moment": "^2.29.4",
+    "socks-proxy-agent": "^8.0.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=16.0.0"
   }
 }
