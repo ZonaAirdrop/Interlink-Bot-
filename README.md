@@ -67,3 +67,9 @@ screen -r interlinkbot
 ✅ To exit and end the session
 
 In the screen, press `Ctrl + C` or type exit
+
+## ❗ Disclaimer
+
+This tool is for educational purposes only.  
+You are solely responsible for how you use this bot.  
+We are not responsible for account restrictions or bans.
