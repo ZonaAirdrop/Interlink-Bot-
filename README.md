@@ -27,6 +27,8 @@ npm install
 `
 ````
 email1@example.com:passcode1
+email1@example.com:passcode2
+email1@example.com:passcode3
 ````
 *Set up proxies (optional)*  `nano proxies.txt` 
 
