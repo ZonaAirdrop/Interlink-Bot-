@@ -73,3 +73,5 @@ In the screen, press `Ctrl + C` or type exit
 This tool is for educational purposes only.  
 You are solely responsible for how you use this bot.  
 We are not responsible for account restrictions or bans.
+
+👉 Join Chanel (Optional) https://t.me/ZonaAirdr0p
