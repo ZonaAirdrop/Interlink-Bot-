@@ -39,3 +39,10 @@ ip:port:user:pass
 ````
 node index.js
 ````
+
+👉 **Notes** 
+
+`Enter your login ID (or email): login via id 
+Enter your passcode: your cellphone pin code 
+Enter your email: tobrutlamot@yy
+check otp in email or spam folder`
