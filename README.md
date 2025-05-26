@@ -22,3 +22,15 @@ cd Interlink-Bot-
 ````
 npm install
 ````
+✅ create file `nano accounts.txt
+`
+````
+email1@example.com:passcode1
+````
+**Set up proxies (optional)*  `nano proxies.txt` 
+
+```
+http://ip:port:user:pass
+socks5://ip:port
+ip:port:user:pass
+```
