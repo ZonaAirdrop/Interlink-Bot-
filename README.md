@@ -34,3 +34,8 @@ http://ip:port:user:pass
 socks5://ip:port
 ip:port:user:pass
 ```
+✅ Running Bot
+
+````
+node index.js
+````
