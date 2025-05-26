@@ -2,6 +2,7 @@
 
 ## 🎇 Features
 
+-  ** Suport VPS & Termux 
 -  **Multi-Account Support**
 -  **Auto Claiming**
 -  **Proxy Rotation**
